@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+body{
+	background-color: lightgrey;
+}
+#testa{
+	background-color: #c8ebeb;
+	width: 800px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	font-size: 30px;
+}
+#contenitore{
+	background-color: #ffffff;
+	width: 700px;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid gray;
+}
+
+.libro{
+	background-color: #cdd6d8;
+	width: 200px;
+	height: 300px;
+	font-size: 16px;
+	float: left;
+	border: 1px solid gray;
+	margin: 1px;
+}
+
+ul{
+	list-style: none;
+	padding:0;
+	margin: 0;
+}
+img.copertina{
+	width:150px;
+	height:200px;
+	margin-top: 10px;
+	
+	}

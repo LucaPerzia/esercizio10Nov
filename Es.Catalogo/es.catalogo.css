@@ -6,24 +6,34 @@ body{
 #testa{
 	background-color: #c8ebeb;
 	width: 800px;
-	height: 800px;
+	height: auto;
 	margin-left: auto;
 	margin-right: auto;
 	text-align:center;
-	font-size: 30px;
+	font-size: 35px;
 }
+#titolo{
+	position: relative;
+	top: 50px;
+	 font-family: "Trebuchet MS", sans-serif;
+    font-size: 38px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
 #contenitore{
 	background-color: #ffffff;
 	width: 700px;
-	height: 700px;
+	height: auto;
 	margin-left: auto;
 	margin-right: auto;
 	border: 1px solid gray;
+	margin-top: 155px;
 }
 
 .libro{
 	background-color: #cdd6d8;
-	width: 200px;
+	width: 229px;
 	height: 300px;
 	font-size: 16px;
 	float: left;
